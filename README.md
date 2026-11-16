@@ -2,6 +2,10 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/felixyu9722/ComfyUI-Wan2.1-Workstation/blob/main/ComfyUI_Wan2.1_Qwen2509_Workstation.ipynb)
 
+<div align="center">
+  <img src="./banner.png" alt="ComfyUI + Wan 2.1 & Qwen 全能工作站" width="100%">
+</div>
+
 一套开箱即用的 **ComfyUI 全能视频生成与双图换装工作站**，支持在 Google Colab 或本地 GPU 一键部署，内置 **14 套全场景预配置工作流**：涵盖 **文生视频 (T2V)**、**图生视频 (I2V)**、**4~6步极速蒸馏加速**、**双图参考极速换装 (`Qwen-Image-Edit-2509`)**、**换装直转视频一条龙**、**无限制高清生图**、**首尾帧变装转场 (`FLF2V`)**、**多参考图融合 (`VACE`)**、**动作复刻 (`FunControl`)**、**数字人语音驱动说话 (`InfiniteTalk`)** 以及 **镜头运镜控制 (`FunCamera`)**。
 
 ---
